@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files — download from DayZer0 workspace, don't commit CSVs
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
